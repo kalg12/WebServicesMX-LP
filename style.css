@@ -46,9 +46,9 @@ video {
     opacity: 0.5;
 }
 
-@media screen and (min-width: 600px){
+@media screen and (max-width: 600px){
     .brand-logo{
-        margin-left: 0px;
+        margin-left: 0px !important;
     }
 }
     
