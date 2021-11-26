@@ -45,3 +45,10 @@ video {
     display: flex;
     opacity: 0.5;
 }
+
+@media screen and (min-width: 600px){
+    .brand-logo{
+        margin-left: 0px;
+    }
+}
+    
